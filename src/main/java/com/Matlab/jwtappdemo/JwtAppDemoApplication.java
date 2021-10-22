@@ -8,7 +8,7 @@ public class JwtAppDemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JwtAppDemoApplication.class, args);
-		System.out.println("Gagag");
+		System.out.println("Test Test");
 	}
 
 }

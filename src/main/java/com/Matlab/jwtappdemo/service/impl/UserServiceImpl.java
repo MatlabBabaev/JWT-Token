@@ -43,7 +43,6 @@ public class UserServiceImpl implements UserService {
         user.setStatus(Status.ACTIVE);
 
         User registeredUser = userRepository.save(user);
-        Log
 
         return null;
     }
